@@ -7,7 +7,9 @@
 
 4.This mod may conflict with vehicle modifications, mod URL: https://community.veniceunleashed.net/t/vehicle-modifications-fov-camera-position-disable-threshold/3385
 
-5.Finally, I would like to thank Mr Janssent for his technical guidance and support, I was able to complete this mod under Janssent. Mr Janssent's Github page: https://github.com/J4nssent
+5.If you restart the map or the module fails in the next round, use the old modules `ReverseChaseCamOld` and `PlaneUniqueCameraOld`, which are cumbersome but very stable
+
+6.Finally, I would like to thank Mr Janssent for his technical guidance and support, I was able to complete this mod under Janssent. Mr Janssent's Github page: https://github.com/J4nssent
 
 ## Part of the picture show
 ![1](https://github.com/user-attachments/assets/8a98ca9a-ed1f-445e-b0cf-11c36d1f98d2)
