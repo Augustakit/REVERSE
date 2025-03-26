@@ -7,7 +7,7 @@
 
 4.此模组可能与vehicle modifications模组发生冲突，模组地址为: https://community.veniceunleashed.net/t/vehicle-modifications-fov-camera-position-disable-threshold/3385
 
-5.如果您重启地图或进行下一回合出现模组失效失效情况，请使用`ReverseChaseCamOld`以及`PlaneUniqueCameraOld`这两款旧模组，虽然内容繁琐，但是稳定性很好
+5.如果您重启地图或进行下一回合出现模组失效失灵情况，请使用`ReverseChaseCamOld`以及`PlaneUniqueCameraOld`这两款旧模组，虽然内容繁琐，但是稳定性很好
 
 6.最后，我要感谢Janssent先生的技术指导和支持，我是在Janssent的帮助下完成这个模组的。Janssent先生的Github页面：https://github.com/J4nssent
 
