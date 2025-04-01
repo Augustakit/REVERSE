@@ -1,0 +1,29 @@
+AAV-7A1别名AAV-7A1两楼战车
+GROWLER别名咆哮者
+VDV别名VDV越野车
+DPV别名沙漠巡逻车
+M1114别名M1114悍马
+GAZ3937别名GAZ-3937 沃德尼克
+RHIB别名硬式充气艇
+Venom别名UH-1Y毒液运输直升机
+KA60别名KA-60杀人鲸运输直升机
+
+
+
+XP3地图
+QuadBike别名四轮越野机车
+SPRUT别名SPRUT-SD——以BMD-3砲座為雛型的俄羅斯高度機動輕型反坦克裝甲車（Battlelog介绍）
+
+XP4地图
+
+浣熊又称獾熊（BARSUK）是俄军的榴弹机枪一体车→源自GAZ-3937VODNIK，在游戏中并不显示中文名字，名称只有括号内的空白，请各位留意
+VodnikPhoenix别名PHOENIX，是美军的榴弹机枪一体车，在突袭模式中仅美方拥有此载具→改自M1114 HMMWW
+RHION是通用的.50直接驾驶的机枪车，美俄双方都有→改自VAN
+
+
+
+XP5地图
+
+KLR650别名两轮越野车
+VodnikPhoenix别名VODNIK AA
+ASRAD别名HMMWV ASRAD
